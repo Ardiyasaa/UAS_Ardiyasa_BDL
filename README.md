@@ -1,6 +1,6 @@
 # UAS_Ardiyasa_BDL
 
-## Database ABsensi Karyawan
+## Database Absensi Karyawan
 
 1. entity relationship diargram 
 
